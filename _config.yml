@@ -1,0 +1,14 @@
+name: 'Frames Per Pixel '
+layout_spectrum: 0.24740923125422354
+typography_spectrum: 0.16862576890539516
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.47214286969878005
+  lightness: 0.04947172825885171
+  saturation: 0.37873719886348733
+  rhythmicContrast: 0.680013875255302
